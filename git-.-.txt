@@ -1,0 +1,12 @@
+git config --global user.email  체크
+git config --global user.name 체크
+
+git status 상태체크
+
+git add .
+git commit -m
+
+2.til 들어가서
+3.주소복사
+4.해당 폴더 생길곳에 깃 배쉬
+5.git clone 주소
